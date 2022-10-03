@@ -1,6 +1,6 @@
 # In this example, any change in this repo 
 # will require approval from @vriesmarcel
-* @Effanga
+* @koksy2020
 
 # Any change inside the `/Documents` directory
 # will require approval from anyone in the organizational team docsteam
